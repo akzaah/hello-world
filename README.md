@@ -1,2 +1,1 @@
-# hello-world
-helllo 
+my name is akzaah and im studying right now 
